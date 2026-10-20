@@ -1,0 +1,62 @@
+{
+  "hash": "09b0773a",
+  "configHash": "be3fed9d",
+  "lockfileHash": "bffba0f6",
+  "browserHash": "ac3535f8",
+  "optimized": {
+    "@vue/devtools-core": {
+      "src": "../../../../../../../../gradecloud/node_modules/@vue/devtools-core/dist/index.js",
+      "file": "@vue_devtools-core.js",
+      "fileHash": "11bfd112",
+      "needsInterop": false
+    },
+    "@vue/devtools-kit": {
+      "src": "../../../../../../../../gradecloud/node_modules/@vue/devtools-kit/dist/index.js",
+      "file": "@vue_devtools-kit.js",
+      "fileHash": "6ef76893",
+      "needsInterop": false
+    },
+    "error-stack-parser-es": {
+      "src": "../../../../../../../../gradecloud/node_modules/error-stack-parser-es/dist/index.mjs",
+      "file": "error-stack-parser-es.js",
+      "fileHash": "c25eb885",
+      "needsInterop": false
+    },
+    "errx": {
+      "src": "../../../../../../../../gradecloud/node_modules/errx/dist/index.mjs",
+      "file": "errx.js",
+      "fileHash": "2e61cb37",
+      "needsInterop": false
+    },
+    "nostics": {
+      "src": "../../../../../../../../gradecloud/node_modules/nostics/dist/index.mjs",
+      "file": "nostics.js",
+      "fileHash": "62ae187a",
+      "needsInterop": false
+    },
+    "nostics/formatters/ansi": {
+      "src": "../../../../../../../../gradecloud/node_modules/nostics/dist/formatters/ansi.mjs",
+      "file": "nostics_formatters_ansi.js",
+      "fileHash": "71c5fb1b",
+      "needsInterop": false
+    },
+    "nostics/reporters/dev": {
+      "src": "../../../../../../../../gradecloud/node_modules/nostics/dist/reporters/dev.mjs",
+      "file": "nostics_reporters_dev.js",
+      "fileHash": "ebdfb2b7",
+      "needsInterop": false
+    },
+    "vite-plugin-vue-tracer/client/overlay": {
+      "src": "../../../../../../../../gradecloud/node_modules/vite-plugin-vue-tracer/dist/client/overlay.mjs",
+      "file": "vite-plugin-vue-tracer_client_overlay.js",
+      "fileHash": "2858d3a1",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "dist-CTWCRX41": {
+      "file": "dist-CTWCRX41.js",
+      "isDynamicEntry": false
+    }
+  }
+}
